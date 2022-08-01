@@ -1,2 +1,3 @@
->work smart
-~~hello~~
+```bash
+npx medium-to-own-blog
+```
